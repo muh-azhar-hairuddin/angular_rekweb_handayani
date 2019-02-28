@@ -1,0 +1,7 @@
+.img-photo{
+  border: 0;
+  vertical-align: top;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
